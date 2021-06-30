@@ -93,5 +93,6 @@ void loop(){
       h = newH;
       Serial.println(h);
     }
+    Serial.println(WiFi.localIP());
   }
 }
