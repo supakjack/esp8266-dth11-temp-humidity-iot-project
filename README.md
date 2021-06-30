@@ -18,7 +18,7 @@ ENGLISH AND THAI DOCUMENT / คู่มือภาษไทยและอั�
     | D1 | NC(DATA PIN) |
     | 3V3 | Vcc |
     | GND | GND |
-    ![1625024544742](https://user-images.githubusercontent.com/48548611/123898683-f3df9900-d98f-11eb-9a16-e81b6d670355.jpg)
+    ![1625024544742](https://user-images.githubusercontent.com/48548611/123898683-f3df9900-d98f-11eb-9a16-e81b6d670355.jpg) | ![1625023794136](https://user-images.githubusercontent.com/48548611/123902168-913dcb80-d996-11eb-918e-f66326ecc093.jpg)
 3) CHANGE "SSID" AND "PASSWORD" TO YOUR WIFI (EN) / เปลี่ยน "SSID" และ "PASSWORD" เป็นของ WIFI ที่ใช้งาน (ไทย)
 4) SAVE AND UPLAOD CODE ,THEN CHECK YOUR ESP8266 IP ADDRESS AND COPY IT (EN) / SAVE และ UPLAOD CODE ,จากนั้นเช๊ค IP ของ ESP8266  และทำการคัดลอก IP (ไทย)
 5) GO TO INDEX.HTML AND CHANGE IP FORM YOUR ESP8266 IP  (EN) / ไปที่ไฟล์ INDEX.HTML หา IP ตามรูปและเปลี่ยนเป็น IP ที่คัดลอกมา (ไทย)
